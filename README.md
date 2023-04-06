@@ -10,3 +10,4 @@ Features:
 - Simulation of group and Play-Off stages - Points, Goals, Wins, Draws, Losses
 - Group stage tiebreaker
 - Simple visualisation of matches and both Group tables and Play-Off brackets
+- An ability to restart the program without having to exit it
